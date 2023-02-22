@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "677987645457",
+    "firebase_url": "https://hecta-a99ff-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hecta-a99ff",
+    "storage_bucket": "hecta-a99ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677987645457:android:5479c16c09f0526ad119b0",
+        "android_client_info": {
+          "package_name": "com.flutterflow.apphecta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677987645457-9ks3oooc26m1ne74gb9i2kmf1ng7t2d3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.apphecta",
+            "certificate_hash": "0343ad228a43a136c0b36ec147446ac6deac72fc"
+          }
+        },
+        {
+          "client_id": "677987645457-c0mk1rb5d83blpsjd7oa7lua2g25no8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.apphecta",
+            "certificate_hash": "9d90b0b14ef010831fc345ddaba68f86c7dc8f8a"
+          }
+        },
+        {
+          "client_id": "677987645457-k0hflo01eo3di6ktqdildlqctdb766ms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.apphecta",
+            "certificate_hash": "ef2a1a5dbd8aea27aaa7cefb530949f72c9ae62d"
+          }
+        },
+        {
+          "client_id": "677987645457-ri25l1jnp7c4l7ahoqja7qjjdctd405f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.apphecta",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "677987645457-se9uhf3rdcg7idncj5ke9c14erqt9r30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.apphecta",
+            "certificate_hash": "7bf567f558c00ebe85a6bc129103a07a2b61c783"
+          }
+        },
+        {
+          "client_id": "677987645457-l5n3bml1vpvihuv6rhubava6ejaq72ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSPMsntXqbMCKLV8go1zhB8yE8WruOK3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677987645457-l5n3bml1vpvihuv6rhubava6ejaq72ju.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "677987645457-3bq5qd2jko3v75c2s923batvfr9jjrjj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.apphecta"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
